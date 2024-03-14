@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevOpsTestPortal/AzureConnect/_apis/build/status%2FRaginivinoth.pipelines-java?branchName=main)](https://dev.azure.com/DevOpsTestPortal/AzureConnect/_build/latest?definitionId=27&branchName=main)
 
 # Contributing
 
